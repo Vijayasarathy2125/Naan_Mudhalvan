@@ -34,8 +34,7 @@ Before you can run this project, ensure you have the following dependencies inst
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-twitter-airlines.git
-   cd sentiment-analysis-twitter-airlines
+   git clone https://github.com/Vijayasarathy2125/Naan_Mudhalvan
 2. Install the required libraries:
 
    ```bash
